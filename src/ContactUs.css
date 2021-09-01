@@ -1,0 +1,25 @@
+.contact-form{
+    margin-left: 35%;
+    margin-top: 10%;
+    width: 350px;
+    min-height: 260px;
+    font-size: 15px;
+    /* height: 310px; */
+    border: 1px solid gray;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+/* .area{
+    min-height: 200px;
+    background-color: rgb(146, 197, 223);
+    border:1.5px solid black;
+} */
+.contact-lbl{
+    margin-left: 120px;
+    font-size: 20px;
+}
+.contact-btn{
+    font-size: 20px;
+    margin-left: 120px;
+}

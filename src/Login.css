@@ -1,0 +1,51 @@
+.login-form{
+    margin-left: 25%;
+    margin-top: 7%;
+    width: 400px;
+    font-size: 15px;
+    height: 330px;
+    border: 1px solid gray;
+    padding: 15px;
+    border-radius: 5px;
+}
+.signUp-form{
+    margin-left: 460px;
+    margin-top: 7%;
+    width: 400px;
+    font-size: 15px;
+    border: 1px solid gray;
+    padding: 15px;
+    border-radius: 5px;
+}
+.signup-bg{
+    height: auto;
+    height: 300px;
+    width: 450px;
+    position: relative;
+    float: left;
+    background-repeat: no-repeat;
+}
+.lbl{
+    margin-left: 135px;
+    font-size: 25px;
+}
+.bg-img{
+    width: 100px;
+    height: 100px;
+}
+.Container{
+    background-repeat: no-repeat;
+    margin-left: 200px;
+    
+}
+.btn{
+    font-size: larger;
+    margin-left: 135px;
+    width: 100px;
+    height: 35px;   
+}
+input[type]{
+    background-color: rgb(146, 197, 223);
+    border:1.5px solid black;
+    font-size: 15px;
+}
